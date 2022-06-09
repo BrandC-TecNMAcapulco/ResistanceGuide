@@ -1,0 +1,69 @@
+
+/* Class = "UILabel"; text = "Resistencias en Paralelo"; ObjectID = "0IP-Dm-70i"; */
+"0IP-Dm-70i.text" = "Resistencias en Paralelo";
+
+/* Class = "UITabBarItem"; title = "Calculate"; ObjectID = "5g9-MZ-9rv"; */
+"5g9-MZ-9rv.title" = "Calculate";
+
+/* Class = "UILabel"; text = "Resistencia 1"; ObjectID = "ATb-zu-Qki"; */
+"ATb-zu-Qki.text" = "Resistencia 1";
+
+/* Class = "UIViewController"; title = "Main"; ObjectID = "BYZ-38-t0r"; */
+"BYZ-38-t0r.title" = "Main";
+
+/* Class = "UILabel"; text = "Resistencia 2"; ObjectID = "E1r-X6-xG8"; */
+"E1r-X6-xG8.text" = "Resistencia 2";
+
+/* Class = "UILabel"; text = "Resultado :"; ObjectID = "F8z-Oz-IDh"; */
+"F8z-Oz-IDh.text" = "Resultado :";
+
+/* Class = "UIButton"; normalTitle = "Resistencia en Paralelo"; ObjectID = "FWj-1n-p7e"; */
+"FWj-1n-p7e.normalTitle" = "Resistencia en Paralelo";
+
+/* Class = "UILabel"; text = "00.00"; ObjectID = "H2t-RR-P2j"; */
+"H2t-RR-P2j.text" = "00.00";
+
+/* Class = "UILabel"; text = "Resultado :"; ObjectID = "HqZ-QG-tkg"; */
+"HqZ-QG-tkg.text" = "Resultado :";
+
+/* Class = "UILabel"; text = "Resistencia 3"; ObjectID = "Nmi-ML-wr9"; */
+"Nmi-ML-wr9.text" = "Resistencia 3";
+
+/* Class = "UILabel"; text = "Resistencias en Serie"; ObjectID = "OO5-ha-UEd"; */
+"OO5-ha-UEd.text" = "Resistencias en Serie";
+
+/* Class = "UITabBarItem"; title = "Home"; ObjectID = "Ppw-vY-p6U"; */
+"Ppw-vY-p6U.title" = "Home";
+
+/* Class = "UIButton"; normalTitle = "Resistencia en Serie"; ObjectID = "Pqm-TL-tjQ"; */
+"Pqm-TL-tjQ.normalTitle" = "Resistencia en Serie";
+
+/* Class = "UILabel"; text = "Resistencia 1"; ObjectID = "R9i-3g-ejR"; */
+"R9i-3g-ejR.text" = "Resistencia 1";
+
+/* Class = "UILabel"; text = "00.00"; ObjectID = "SLI-c6-vJU"; */
+"SLI-c6-vJU.text" = "00.00";
+
+/* Class = "UIViewController"; title = "Calculadora"; ObjectID = "bW4-Ln-Z6e"; */
+"bW4-Ln-Z6e.title" = "Calculadora";
+
+/* Class = "UILabel"; text = "Resistencia 3"; ObjectID = "dql-qK-iKU"; */
+"dql-qK-iKU.text" = "Resistencia 3";
+
+/* Class = "UILabel"; text = "Bienvenido"; ObjectID = "ezo-dp-2LA"; */
+"ezo-dp-2LA.text" = "Bienvenido";
+
+/* Class = "UILabel"; text = "Resistencia 2"; ObjectID = "gNy-xL-Szi"; */
+"gNy-xL-Szi.text" = "Resistencia 2";
+
+/* Class = "UINavigationItem"; title = "Calculadoras"; ObjectID = "kcn-J8-QBN"; */
+"kcn-J8-QBN.title" = "Calculadoras";
+
+/* Class = "UIBarButtonItem"; title = "Atras"; ObjectID = "mEx-mA-ULR"; */
+"mEx-mA-ULR.title" = "Atras";
+
+/* Class = "UIButton"; normalTitle = "Calcular"; ObjectID = "nw5-aO-vfe"; */
+"nw5-aO-vfe.normalTitle" = "Calcular";
+
+/* Class = "UIButton"; normalTitle = "Calcular"; ObjectID = "tJe-8a-D4a"; */
+"tJe-8a-D4a.normalTitle" = "Calcular";
